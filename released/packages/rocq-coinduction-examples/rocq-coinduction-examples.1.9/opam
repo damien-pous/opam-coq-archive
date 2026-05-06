@@ -40,5 +40,5 @@ authors: [
 url {
   src:
     "https://github.com/damien-pous/coinduction-examples/archive/refs/tags/v1.9.tar.gz"
-  checksum: "sha512=ac4a6828e7b49f637166b86469b126bdf7158fa6d80f1fc9d8463fcbb99d52560d4eaa657941fc04e145a23bc0d1decf12d7f536c9d6e903e8416bdb2b0dfff5"
+  checksum: "sha512=42926c5a1f319c851f99abce707388207852747716e8c8ad87b4f0b1cb2c1afc0350ad83a6fa1e60850d6087315827efee96fa62d76f3fef82cfabb67ad1b6e3"
 }
