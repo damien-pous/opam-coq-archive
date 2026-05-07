@@ -40,5 +40,5 @@ authors: [
 
 url {
   src: "https://github.com/damien-pous/partial-orders/archive/refs/tags/v1.0.tar.gz"
-  checksum: "sha512=95c9ea17751329cf7c263e81fbc950e1b61d8789d2e0adc5d3a8a8d6fc8dd0902da51312ee90070fd5d1182b38b0cbb08a1ce7d5f95f55b4772d468f05b2746f"
+  checksum: "sha512=a4d327994e4d9554f8095a4c5be0d5c858cbf27e2f190766651d34afb3625916663cb49f713760ca6212f7c76a2dde305214a96fdd07a638c56860ab78d51230"
 }
